@@ -1,0 +1,67 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f4f6f9;
+    color: #1a1a1a;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #002147; /* Azul oscuro institucional */
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    margin: 0;
+    font-size: 28px;
+}
+
+main {
+    max-width: 800px;
+    margin: 30px auto;
+    background-color: white;
+    padding: 25px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+p {
+    line-height: 1.6;
+    font-size: 16px;
+}
+
+a {
+    color: #005baa; /* Azul más claro para enlaces */
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+ol {
+    padding-left: 20px;
+    margin-bottom: 20px;
+}
+
+footer {
+    background-color: #002147;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    margin-top: 40px;
+}
+#pag{
+    background-color: #002147;
+    text-decoration: none;
+    color: white;
+    border-radius: 10px ;
+    width: 130px;
+}
+#pag:hover{
+    width: 140px;
+    height: 30px;
+}

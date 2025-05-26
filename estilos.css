@@ -1,0 +1,38 @@
+body{
+	background: white;
+}
+#contenedor{
+	width: 1230px;
+	height: 430px;
+	background: #002147;
+	margin: 1em auto;
+	border-radius: 2em; 
+	padding: 0.5em;
+}
+#img2{
+	height: 30%;
+	background: white;
+	border-radius: 0.5em;
+	color: black;
+	margin: 0.5em;
+	font-size: 20px;
+	padding: 0.5em; 
+}
+#img3{
+	width: 46%
+	height: 70%;
+	background: white;
+	border-radius: 0.5em;
+	margin: 0.5em;
+	font-size: 20px;
+	padding: 0.5em; 
+    text-align: left;
+}
+#div{
+	color: white;
+}
+a{
+	text-decoration: none;
+	text-decoration-line: none;
+	color: #002147;
+}
