@@ -2,8 +2,8 @@ body{
 	background: white;
 }
 #contenedor{
-	width: 1230px;
-	height: 430px;
+	width: 1232px;
+	height: 550px;
 	background: #002147;
 	margin: 1em auto;
 	border-radius: 2em; 
@@ -19,8 +19,8 @@ body{
 	padding: 0.5em; 
 }
 #img3{
-	width: 46%
-	height: 70%;
+	width: 47%
+	height: 71%;
 	background: white;
 	border-radius: 0.5em;
 	margin: 0.5em;
@@ -35,4 +35,11 @@ a{
 	text-decoration: none;
 	text-decoration-line: none;
 	color: #002147;
+}
+a:hover{
+	font-size: 14px;
+	color: white;
+}
+button:hover{
+	background: #002147;
 }
