@@ -40,6 +40,8 @@ a {
 
 a:hover {
     text-decoration: underline;
+    background-size: 70px;
+
 }
 
 ol {
@@ -62,6 +64,6 @@ footer {
     width: 130px;
 }
 #pag:hover{
-    width: 140px;
-    height: 30px;
+    width: 135px;
+    height: 60px;
 }
